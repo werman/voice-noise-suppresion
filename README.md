@@ -24,6 +24,8 @@ See [detailed guide](https://medium.com/@bssankaran/free-and-open-source-softwar
 
 #### PulseAudio
 
+> To ease and enhance this module integration with Pulseaudio, [please upvote this PA feature request](https://gitlab.freedesktop.org/pulseaudio/pulseaudio/-/issues/120).
+
 The idea is:
 
 - Create a sink from which apps will take audio later and which will be the end sink in the chain.
